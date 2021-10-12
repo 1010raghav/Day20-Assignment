@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace MoodAnalyzer
 {
     public class UC1
